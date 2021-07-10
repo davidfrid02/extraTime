@@ -1,0 +1,23 @@
+{
+  "name": "extraTime",
+  "version": "1.0.0",
+  "description": "Israel Football statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidfrid02/extraTime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidfrid02/extraTime/issues"
+  },
+  "homepage": "https://github.com/davidfrid02/extraTime#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
